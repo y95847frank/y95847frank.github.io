@@ -134,6 +134,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2.25em 0;
+		text-align: justify;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2182,7 +2183,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			height: 20em;
+			height: 18em;
 			border-radius: 0;
 		}
 
@@ -2210,6 +2211,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
+			text-align: justify;
 		}
 
 		ul.alt {
